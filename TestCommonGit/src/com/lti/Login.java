@@ -2,11 +2,7 @@ package com.lti;
 
 public class Login {
      
-	public void login(){
-		
-	}
-	public void reg()
-	{
-		
+	public void loginpage(){
+	System.out.println("Hi");	
 	}
 }
